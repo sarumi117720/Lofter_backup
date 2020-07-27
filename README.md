@@ -1,2 +1,1 @@
-# Lofter_backup
-Backup Lofter as txt files
+Lofter备份程序
